@@ -1,4 +1,4 @@
-immutable_var=tuple_=1,2,'s','v'   #2
+immutable_var=1,2,'s','v'   #2
 print(immutable_var)
 
 #immutable_var=tuple_[1]='b'  #3
